@@ -1,0 +1,35 @@
+[
+    {
+        "trxnDate": "13-AUG-2019",
+        "scheme": "02GZ",
+        "trxnDesc": "Purchase",
+        "schemeName": "Aditya Birla Sun Life ELSS Tax Saver Fund- (ELSS U/S 80C of IT ACT) - Growth-Direct Plan",
+        "purchasePrice": "30.56",
+        "trxnUnits": "32.723",
+        "trxnAmount": "1000.00",
+        "folio": "1039101537",
+        "isin": "INF209K01UN8"
+    },
+    {
+        "trxnDate": "15-AUG-2020",
+        "scheme": "02GZ",
+        "trxnDesc": "Purchase",
+        "schemeName": "Aditya Birla Sun Life ELSS Tax Saver Fund- (ELSS U/S 80C of IT ACT) - Growth-Direct Plan",
+        "purchasePrice": "35.00",
+        "trxnUnits": "28.571",
+        "trxnAmount": "1000.00",
+        "folio": "1039101537",
+        "isin": "INF209K01UN8"
+    },
+    {
+        "trxnDate": "10-SEP-2021",
+        "scheme": "02GZ",
+        "trxnDesc": "Sell",
+        "schemeName": "Aditya Birla Sun Life ELSS Tax Saver Fund- (ELSS U/S 80C of IT ACT) - Growth-Direct Plan",
+        "purchasePrice": "40.00",
+        "trxnUnits": "-10.000",
+        "trxnAmount": "-400.00",
+        "folio": "1039101537",
+        "isin": "INF209K01UN8"
+    }
+]
